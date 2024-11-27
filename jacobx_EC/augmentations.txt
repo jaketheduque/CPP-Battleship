@@ -1,0 +1,1 @@
+Intelligent AI which determines an optimal next move based on the result and location of the previous move
